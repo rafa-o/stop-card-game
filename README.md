@@ -17,25 +17,25 @@ In turns, each player should pick a card from the main deck, look at it, and dec
 When you decide to keep a card you pulled from the deck, you'll know one of your cards (the one you have just picked from the deck) and you should try to remember what that card is to know when to say **"Stop!"** and end the match.
 
 ## Scoring
-The Ace is worth `1` point. The face cards (Jack, Queen, King) are worth `11`, `12` and `13` points respectively, with exception of the Red Kings (see _Special Effects_ below), as each Red King is worth zero points, making them the best cards in the game.
+The Ace is worth `1` point. The court cards (Jack, Queen, King) are worth `11`, `12` and `13` points respectively, with exception of the Red Kings (see _Special Effects_ below), as each Red King is worth zero points, making them the best cards in the game.
 
 ## Special Effects
-Each face card has a special effect that is activated when discarded:
+Each court card has a special effect that is activated when discarded:
 
-Red King: is worth 0 points - the best card in the game!
+🔴👑 **Red King**: is worth 0 points - the best card in the game!
 
-Black King: is worth 13 points - the _worst_ card in the game!
+⚫️👑 **Black King**: is worth 13 points - the _worst_ card in the game!
 
-Red Queen: you can look one of your cards
+🔴🫅🏻 **Red Queen**: you can look one of your cards
 
-Black Queen: you can look one card of another other player 
+⚫️🫅🏻 **Black Queen**: you can look one card of another other player 
 
-Red Jack: you can switch one of your cards with another player
+🔴🤴🏽 **Red Jack**: you can switch one of your cards with another player
 
-Black Jack: you can switch 2 cards from other players
+⚫️🤴🏽 **Black Jack**: you can switch 2 cards from other players
 
-When a player discards a face card, the player might choose to use the card's special effect or not. 
-Alternatively, you can also play saying that using the face card's special effect is mandatory.
+When a player discards a court card, the player might choose to use the card's special effect or not. 
+Alternatively, you can also play saying that using the court card's special effect is mandatory.
 
 ## Stack-discarding
 You can also end the game with less cards than the other players by stack-discarding: when another player discards one card, if you already know you have a card of the same value, you can then discard your card on top of the other player's card.
@@ -44,6 +44,6 @@ For example: if one player discards a `7`, and you already know you have a `7` w
 
 **Be careful though:** if you _think_ you have the same card, and when you reveal it on the discard pile, it turns out it's a different value, you should take it back into your hand _and_ get another card from the main deck, making you have `4` cards!
 
-This rule can also be applied to face cards.
+This rule can also be applied to court cards.
 
 Have fun! ✨
